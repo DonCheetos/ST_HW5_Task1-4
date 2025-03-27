@@ -3,7 +3,7 @@ package ee.ut.cs.swt.nextdate;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-public class GTv2 {
+public class GTv12 {
 
 	@Test(timeout = 4000)
 	public void testCreatesNextDate1() throws Throwable {
